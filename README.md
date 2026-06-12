@@ -154,8 +154,8 @@ Measures recommendation ranking quality.
 
 | Metric                 | Item-Based CF | SVD      |
 | ---------------------- | ------------- | -------- |
-| RMSE                   | 0.9890        | 0.9864   |
-| MAP@10                 | 0.0189        | 0.0000   |
+| RMSE                   | 1.0013        | 0.9712   |
+| MAP@10                 | 0.0038        | 0.0000   |
 | Training Time          | Fast          | 7.76 sec |
 | Recommendation Ranking | Better        | Poor     |
 | Scalability            | Moderate      | Better   |
