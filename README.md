@@ -215,6 +215,25 @@ Potential improvements include:
 
 ---
 
+## Installation
+
+Clone the repository and install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Running the Project
+
+Run the notebooks in the following order:
+
+1. Data_Sampling.ipynb
+2. EDA_Analysis.ipynb
+3. Item_Based_CF_fixed.ipynb
+4. SVD_Model.ipynb
+5. Model_Comparison.ipynb
+```
+
 ## Repository Structure
 
 ```text
